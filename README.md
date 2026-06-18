@@ -10,7 +10,6 @@ A simple Hotel Booking System built using React and Node.js that allows hotel st
 * Prevent duplicate room numbers
 * Book rooms for guests
 * Prevent double booking of rooms on the same date
-* View room availability by date
 * Search booking history by guest name or room number
 
 ---
